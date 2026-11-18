@@ -1,0 +1,7 @@
+{
+  "recording_type":"independent_speaker_tracks",
+  "tracks":[
+    {"speaker":"参与者A","path":"raw/speaker_a.wav","offset_seconds":0},
+    {"speaker":"参与者B","path":"raw/speaker_b.wav","offset_seconds":0}
+  ]
+}
