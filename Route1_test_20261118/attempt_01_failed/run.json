@@ -1,0 +1,8 @@
+{
+  "route": "1",
+  "created_utc": "2026-11-18T08:39:40.226268+00:00",
+  "budget_chars": 12000,
+  "status": "failed",
+  "error_type": "TypeError",
+  "elapsed_seconds": 237.10961739999948
+}

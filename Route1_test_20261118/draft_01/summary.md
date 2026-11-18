@@ -1,0 +1,279 @@
+# 会议摘要
+
+会议围绕原创、时尚且易用的新遥控器项目展开，先进行成员介绍和暖场活动，并确定采用个人工作与会议讨论交替、重复三次的流程；随后讨论约25欧元的售价与成本、销售渠道、国际化设计差异、产品定位以及遥控器易丢失、外观与功能范围等问题。会议进入功能设计阶段并提到工业设计、用户界面/技术与市场方面的分工，但具体负责人和截止时间未明确；遥控器功能是否超越电视范畴仍未决定。
+
+> 说话人编号为自动声纹聚类标签，不是真实姓名；未知或重叠处的责任归属需回听确认。
+
+## 决策
+
+- 项目采用个人工作与会议讨论交替进行、重复三次的流程。（证据：s00024）
+- 下一阶段为功能设计阶段。（证据：s00218）
+- 遥控器功能是否超越电视范畴尚未明确，由团队自行决定，并提示可能需要独特卖点。（证据：s00230, s00232）
+
+## 行动项
+
+- 工业设计师负责实际工作设计。；负责人：待确认；期限：待确认（证据：s00214）
+- 用户界面/技术功能方向继续推进此前讨论的实际功能。；负责人：待确认；期限：待确认（证据：s00215）
+- 市场专员思考产品需满足的要求，并接收邮件发送的说明。；负责人：待确认；期限：待确认（证据：s00215, s00216）
+
+## 风险与分歧
+
+- 会议未明确各阶段的具体任务负责人与截止时间，存在任务分工不清的风险。（证据：s00020, s00024）
+- 对25欧元售价是批发价还是零售价存在疑问，尚未明确。（证据：s00098, s00101, s00104）
+- 国际化销售可能涉及区域频率、字符、键盘样式等设计差异，但具体影响尚不明确。（证据：s00109, s00113, s00114）
+- 不同区域市场的价格承受能力和产品定位可能不同，25欧元定价未必在所有市场都适用。（证据：s00121, s00125）
+- 与会者质疑25欧元定价是否对应高端产品，并指出缺乏与其他产品价格和价值的对比信息，难以判断该价格能买到何种品质的产品。（证据：s00134, s00137, s00142, s00146, s00148, s00150）
+- 有观点认为消费者在购买时通常不会主动评估遥控器，遥控器更像是电视等产品的附带品，这构成市场认知方面的分歧。（证据：s00151, s00153）
+- 遥控器容易丢失，有与会者提出可加入高音或哨声触发蜂鸣的寻回功能，但是否纳入尚未决定。（证据：s00190, s00192, s00194）
+- 现有遥控器体积大、外观笨重，有意见认为可探索更流线或触屏设计，但功能上未必更好。（证据：s00198, s00200, s00201, s00206）
+- 关于产品是否应包含电视以外功能，存在设计承诺上的不明确与分歧。（证据：s00230, s00232）
+- 主持人对会议是否符合预期表示不确定。（证据：s00242）
+
+## 证据索引
+
+- s00001 [4.5–5.02 秒] 未知说话人（归属不确定）：Like
+- s00002 [5.02–7.14 秒] SPEAKER_02：she's already produced a PowerPoint.
+- s00003 [7.72–8.2 秒] 未知说话人（归属不确定）：I think
+- s00004 [8.2–8.64 秒] SPEAKER_01：it's already
+- s00005 [33.06–33.76 秒] SPEAKER_03：Okay
+- s00006 [55.89–59.3 秒] SPEAKER_01：Well, it's the kick-off meeting for our our project
+- s00007 [61.88–66.7 秒] SPEAKER_01：And And this is just what we're going to be doing over the next 25 minutes.
+- s00008 [68.4–77.28 秒] SPEAKER_01：So first of all, just to kind of make sure that we all know each other, I'm Laura and I'm a project manager. Great. Do you want to introduce yourself again?
+- s00009 [77.46–80.38 秒] SPEAKER_03：Hi, I'm David and I'm supposed to be an industrial designer.
+- s00010 [80.78–81.04 秒] SPEAKER_01：Okay.
+- s00011 [81.76–82.24 秒] 未知说话人（归属不确定）：And
+- s00012 [82.24–84.5 秒] SPEAKER_02：I'm Andrew and I'm a marketing expert.
+- s00013 [86.88–87.36 秒] SPEAKER_02：I'm
+- s00014 [87.36–88.4 秒] 未知说话人（归属不确定）：Greg and I'm huge interface.
+- s00015 [89.18–90.28 秒] SPEAKER_01：Great. Okay.
+- s00016 [92.48–102.0 秒] SPEAKER_01：So we're designing a new remote control and oh, I have to record who's here, actually. So that's David, Andrew and Craig, isn't it?
+- s00017 [102.08–102.22 秒] 未知说话人（归属不确定）：We
+- s00018 [105.29–106.11 秒] SPEAKER_01：arrived on time.
+- s00019 [109.61–115.65 秒] SPEAKER_01：Yeah, so to design a new remote control, as you can see it's supposed to be original, trendy and user-friendly.
+- s00020 [117.85–128.79 秒] SPEAKER_01：So that's kind of our brief that we're at. And so there are three different stages to the design. I'm not really sure what you guys have already received.
+- s00021 [130.17–131.97 秒] SPEAKER_01：In your emails, what did you get?
+- s00022 [132.77–134.61 秒] SPEAKER_03：I just got the project announcement.
+- s00023 [139.37–141.75 秒] 未知说话人（归属不确定）：Yeah, that's it. That's what everybody got, okay.
+- s00024 [143.63–151.01 秒] SPEAKER_01：So we're going to have like individual work and then a meeting about it and repeat that process three times.
+- s00025 [154.07–154.47 秒] 未知说话人（归属不确定）：And
+- s00026 [154.47–157.35 秒] SPEAKER_01：at this point you get to try out the whiteboard over there.
+- s00027 [160.67–166.69 秒] SPEAKER_01：So you get to draw your favourite animal and sum up your favourite characteristics of it. So who would like to go
+- s00028 [166.69–167.79 秒] 未知说话人（归属不确定）：first? I will go. That's fine.
+- s00029 [167.79–168.23 秒] SPEAKER_01：Very good.
+- s00030 [176.47–176.87 秒] 未知说话人（归属不确定）：So
+- s00031 [181.13–181.53 秒] 未知说话人（归属不确定）：this
+- s00032 [181.53–182.09 秒] SPEAKER_02：one here, right?
+- s00033 [183.17–183.65 秒] SPEAKER_03：Mm-hmm.
+- s00034 [183.81–191.43 秒] SPEAKER_02：Okay. Very nice. All right. My favorite animal is like
+- s00035 [191.43–192.23 秒] 未知说话人（归属不确定）：a
+- s00036 [203.56–203.9 秒] SPEAKER_02：beagle.
+- s00037 [212.78–215.28 秒] SPEAKER_02：Favorite characteristics of it? Is that right?
+- s00038 [216.04–216.16 秒] 未知说话人（归属不确定）：Yeah.
+- s00039 [216.52–233.3 秒] SPEAKER_02：Right, well basically high priority for any animal for me is that they be willing to take a lot of physical affection from their family. And yeah, they have lots of personality and
+- s00040 [233.3–234.48 秒] 未知说话人（归属不确定）：be
+- s00041 [235.89–242.25 秒] SPEAKER_02：fit and in robust good health, so this is Blue Beagle, my family's Beagle.
+- s00042 [243.03–243.59 秒] 未知说话人（归属不确定）：Right.
+- s00043 [244.69–244.89 秒] SPEAKER_03：Lovely.
+- s00044 [245.73–246.07 秒] 未知说话人（归属不确定）：No
+- s00045 [255.19–256.39 秒] SPEAKER_04：matter if an animal would be a monkey,
+- s00046 [266.54–268.18 秒] 未知说话人（归属不确定）：and
+- s00047 [268.18–273.92 秒] SPEAKER_04：then a small cutie furry, and when plant needs to become real, I'm going to be up there with them.
+- s00048 [280.93–282.09 秒] SPEAKER_03：Thank you. You
+- s00049 [286.06–290.04 秒] SPEAKER_01：can take as long over this as you like because we haven't got an awful lot to do
+- s00050 [290.04–290.44 秒] 未知说话人（归属不确定）：this. Ok,
+- s00051 [290.52–293.16 秒] SPEAKER_01：we do, we do. Don't feel like you're in a rush anyway.
+- s00052 [295.74–296.1 秒] 未知说话人（归属不确定）：I
+- s00053 [296.1–297.78 秒] SPEAKER_02：actually told you a whole lot more about beagles.
+- s00054 [297.96–299.3 秒] 未知说话人（归属不确定）：Ok, well I'd
+- s00055 [299.3–299.9 秒] SPEAKER_01：have to get you up
+- s00056 [299.9–300.12 秒] 未知说话人（归属不确定）：again.
+- s00057 [300.98–303.42 秒] SPEAKER_01：I don't know what mine is, I'm going to have to think in the spot mode.
+- s00058 [307.56–307.92 秒] SPEAKER_02：Impressionist.
+- s00059 [311.54–311.9 秒] 未知说话人（归属不确定）：Is
+- s00060 [311.9–313.34 秒] SPEAKER_03：that a whale? Yeah.
+- s00061 [319.86–323.9 秒] SPEAKER_03：Oh my, I don't know, it's just the first animal I can think of to top of my head.
+- s00062 [342.18–342.54 秒] 未知说话人（归属不确定）：I
+- s00063 [342.54–345.12 秒] SPEAKER_01：still don't know what I'm going to write about.
+- s00064 [349.69–350.91 秒] SPEAKER_02：Superb sketch, by the way.
+- s00065 [354.72–355.12 秒] 未知说话人（归属不确定）：I
+- s00066 [355.12–362.82 秒] SPEAKER_01：was going to choose a dog as well, but I just draw a different kind of dog. My favourite animal is my own dog at home.
+- s00067 [366.71–367.11 秒] 未知说话人（归属不确定）：That
+- s00068 [367.11–368.49 秒] SPEAKER_01：doesn't really look like him, actually.
+- s00069 [373.29–374.63 秒] SPEAKER_01：He looks more like a pig, actually.
+- s00070 [377.95–378.35 秒] 未知说话人（归属不确定）：I
+- s00071 [378.35–379.35 秒] SPEAKER_02：see a dog in there.
+- s00072 [379.55–380.43 秒] 未知说话人（归属不确定）：Oh, that's
+- s00073 [380.43–380.93 秒] SPEAKER_01：very good of you.
+- s00074 [382.55–382.95 秒] 未知说话人（归属不确定）：Now
+- s00075 [382.95–383.49 秒] SPEAKER_02：I see a rooster.
+- s00076 [393.14–393.54 秒] 未知说话人（归属不确定）：What
+- s00077 [393.54–393.98 秒] SPEAKER_02：kind is it?
+- s00078 [394.96–401.28 秒] SPEAKER_01：He's a mixture of various things, and what do I like about him?
+- s00079 [402.92–411.06 秒] SPEAKER_01：That's supposed to suggest that his tail wags. He's very friendly and cheery and always pleased to see you and very affectionate.
+- s00080 [415.68–420.7 秒] SPEAKER_01：And he's quite we as well, so he doesn't take up too much space.
+- s00081 [426.96–431.06 秒] SPEAKER_01：And he does the funny thing where he chases his tail as well, this is quite amusing.
+- s00082 [431.26–433.28 秒] SPEAKER_02：Is he aware that this is his own tail that he's chasing?
+- s00083 [433.8–441.52 秒] SPEAKER_01：It is, I think it is. He only does it after he's had his dinner. And all of a sudden he gets up and starts chasing his tail. He's throwing the living room.
+- s00084 [443.68–444.5 秒] 未知说话人（归属不确定）：Probably when he
+- s00085 [444.5–446.66 秒] SPEAKER_02：was little he got lots of attention for doing it.
+- s00086 [447.22–448.46 秒] 未知说话人（归属不确定）：Maybe. Has he ever been conditioned?
+- s00087 [449.0–449.26 秒] SPEAKER_01：Maybe.
+- s00088 [451.36–453.84 秒] SPEAKER_01：Where did you find this just down here? okay
+- s00089 [464.69–465.77 秒] 未知说话人（归属不确定）：okay
+- s00090 [465.77–470.55 秒] SPEAKER_01：when I need to discuss the project finance so
+- s00091 [472.15–491.73 秒] SPEAKER_01：according to the brief we're going to be selling this remote control for 25 euro and we're aiming to make 50 million euro and so we're going to be selling this on an international scale and we don't want it to cost any more than 1250 euros
+- s00092 [491.73–494.75 秒] SPEAKER_01：so 50 percent of the selling price.
+- s00093 [495.71–497.53 秒] SPEAKER_02：Can we just go over that again?
+- s00094 [498.11–498.29 秒] 未知说话人（归属不确定）：Sure.
+- s00095 [499.39–503.69 秒] SPEAKER_02：So cost
+- s00096 [505.67–507.71 秒] SPEAKER_02：like production cost is
+- s00097 [507.71–509.35 秒] 未知说话人（归属不确定）：all together but
+- s00098 [509.35–513.79 秒] SPEAKER_02：selling price is is that wholesale or retail like on the shelf?
+- s00099 [515.77–516.45 秒] 未知说话人（归属不确定）：I
+- s00100 [516.45–518.31 秒] SPEAKER_01：don't know I imagine that's a good
+- s00101 [518.31–521.39 秒] 未知说话人（归属不确定）：question. Our sale I imagine it probably is our sale actually
+- s00102 [521.39–522.65 秒] SPEAKER_01：because it's probably up to
+- s00103 [522.65–524.39 秒] 未知说话人（归属不确定）：the
+- s00104 [524.39–528.43 秒] SPEAKER_01：retailer to sell it for whatever price they want.
+- s00105 [531.47–538.11 秒] SPEAKER_01：But I don't know, I mean do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all?
+- s00106 [538.77–538.97 秒] 未知说话人（归属不确定）：Yes.
+- s00107 [539.33–539.79 秒] SPEAKER_01：I think it will.
+- s00108 [541.71–542.15 秒] 未知说话人（归属不确定）：Well
+- s00109 [548.39–553.43 秒] SPEAKER_02：right away I'm wondering if there's like the DVD players if there are zones.
+- s00110 [553.81–555.79 秒] 未知说话人（归属不确定）：Oh yeah, regions and stuff. frequencies
+- s00111 [555.79–556.35 秒] SPEAKER_02：or something,
+- s00112 [556.97–558.83 秒] 未知说话人（归属不确定）：as well
+- s00113 [558.83–565.11 秒] SPEAKER_02：as characters, different keypad styles and symbols.
+- s00114 [565.59–570.93 秒] SPEAKER_01：If we're on root control do you think that would be, I suppose it depends on how complicated our root control is.
+- s00115 [571.63–572.35 秒] SPEAKER_03：It does make sense.
+- s00116 [575.96–579.96 秒] SPEAKER_03：You have more complicated characters that you can manage if you need more money.
+- s00117 [582.74–583.28 秒] SPEAKER_01：And
+- s00118 [583.28–583.76 秒] 未知说话人（归属不确定）：then
+- s00119 [583.76–588.28 秒] SPEAKER_02：the other thing, international, on top of the price, I'm thinking
+- s00120 [588.28–589.7 秒] 未知说话人（归属不确定）：the
+- s00121 [591.11–596.45 秒] SPEAKER_02：price might appeal to a certain market in one region, whereas in another it will be different.
+- s00122 [597.57–600.09 秒] 未知说话人（归属不确定）：Just to characterise the country,
+- s00123 [600.49–602.77 秒] SPEAKER_01：like how much money people have to spend on
+- s00124 [602.77–603.21 秒] 未知说话人（归属不确定）：things. Or just
+- s00125 [603.21–615.57 秒] SPEAKER_02：like basic product positioning, the 25 euro remote control might be a big hit in London might not be such a big hit in Greece, who knows?
+- s00126 [615.67–617.17 秒] 未知说话人（归属不确定）：I'd say so, yeah.
+- s00127 [618.71–622.57 秒] SPEAKER_01：Marketing, good marketing thoughts. Oh gosh, I should be writing all this time.
+- s00128 [655.0–655.6 秒] 未知说话人（归属不确定）：Right
+- s00129 [655.6–660.28 秒] SPEAKER_02：away I'm making some kind of assumptions about what information we're given here,
+- s00130 [660.76–660.98 秒] 未知说话人（归属不确定）：thinking,
+- s00131 [662.12–665.08 秒] SPEAKER_02：okay, trendy probably means something other than just basic,
+- s00132 [665.46–665.84 秒] 未知说话人（归属不确定）：something
+- s00133 [665.84–667.82 秒] SPEAKER_02：other than just standard.
+- s00134 [670.06–676.24 秒] SPEAKER_02：So I'm wondering right away is selling 25 euros, is that sort of the, is this going to be like the premium product?
+- s00135 [677.0–680.32 秒] SPEAKER_01：Yeah, yeah, like how much does, you know, a remote control cost?
+- s00136 [681.4–681.8 秒] 未知说话人（归属不确定）：Well,
+- s00137 [681.82–689.08 秒] SPEAKER_01：25 euro, I mean that's, that's about like 18 pounds or something, isn't it? Or no, is it as much as that?
+- s00138 [689.68–690.02 秒] 未知说话人（归属不确定）：16,
+- s00139 [690.14–691.04 秒] SPEAKER_01：17, 18 pounds?
+- s00140 [692.34–696.14 秒] SPEAKER_01：I don't know, I've never bought a remote control, so I don't know
+- s00141 [696.14–696.88 秒] 未知说话人（归属不确定）：how
+- s00142 [696.88–698.98 秒] SPEAKER_01：good a remote control that would get you.
+- s00143 [701.6–704.82 秒] SPEAKER_01：But yeah, I suppose it has to look kind of cool, gimmicky.
+- s00144 [713.46–721.4 秒] SPEAKER_01：Okay, well does anybody have anything to add to the finance issue at all?
+- s00145 [722.38–722.9 秒] 未知说话人（归属不确定）：do
+- s00146 [722.9–726.9 秒] SPEAKER_02：we have any other background information on like how that compares to other
+- s00147 [726.9–728.88 秒] 未知说话人（归属不确定）：no actually that would be
+- s00148 [728.88–730.48 秒] SPEAKER_01：useful wouldn't it if you knew like
+- s00149 [730.48–731.18 秒] 未知说话人（归属不确定）：what
+- s00150 [731.18–733.96 秒] SPEAKER_01：your money would get you yeah
+- s00151 [753.96–767.06 秒] SPEAKER_02：interesting thing about discussing production of remote control for me is that as you point out I just don't think remote control is being something something people consciously assess in their purchasing habits.
+- s00152 [767.72–768.24 秒] 未知说话人（归属不确定）：It's just
+- s00153 [768.24–771.84 秒] SPEAKER_02：like getting shoelaces with shoes or
+- s00154 [771.84–773.44 秒] 未知说话人（归属不确定）：something. Five minutes to
+- s00155 [773.44–775.98 秒] SPEAKER_01：end of meeting? Oh, okay. We're a bit behind.
+- s00156 [776.2–776.44 秒] SPEAKER_02：You know what I mean?
+- s00157 [778.24–792.7 秒] SPEAKER_02：One way of looking at it would be, well, the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have TV sets are really fed up with their remote control and they really want a
+- s00158 [792.7–793.28 秒] 未知说话人（归属不确定）：better one or
+- s00159 [793.28–793.48 秒] SPEAKER_02：something.
+- s00160 [794.2–799.76 秒] SPEAKER_04：My parents went and bought remote controls because they got fed up by having four or five different remote controls for the
+- s00161 [799.76–800.32 秒] 未知说话人（归属不确定）：first time.
+- s00162 [800.78–801.56 秒] SPEAKER_04：Right, right. So
+- s00163 [801.56–802.28 秒] 未知说话人（归属不确定）：the game was
+- s00164 [802.28–804.26 秒] SPEAKER_04：just how many devices is a good call.
+- s00165 [804.52–806.42 秒] SPEAKER_02：Right, so in function one of the priorities might be
+- s00166 [806.42–807.22 秒] 未知说话人（归属不确定）：to
+- s00167 [807.22–810.22 秒] SPEAKER_02：combine as many uses.
+- s00168 [811.36–814.86 秒] SPEAKER_01：Right, so do you think that should be like a main design aim of remote controls? I
+- s00169 [814.86–816.44 秒] 未知说话人（归属不确定）：think so. Your satellite
+- s00170 [816.44–819.48 秒] SPEAKER_01：and your regular tally and your VCR and everything.
+- s00171 [819.48–820.0 秒] 未知说话人（归属不确定）：Well
+- s00172 [820.0–832.56 秒] SPEAKER_02：like maybe what we could use as a sort of like an example of a successful other piece of technology is palm, palm pilots, they're going from being just like little sort of scribble boards to cameras, MP3
+- s00173 [832.56–832.92 秒] 未知说话人（归属不确定）：players,
+- s00174 [833.26–840.2 秒] SPEAKER_02：telephones, everything, agenda, so like I wonder if we might add something new to the to the remote control
+- s00175 [840.2–840.86 秒] 未知说话人（归属不确定）：market such
+- s00176 [840.86–843.96 秒] SPEAKER_02：as the lighting in your house or...
+- s00177 [843.96–849.02 秒] SPEAKER_01：Or even like you know notes about what you want to watch, like you might put in there or I
+- s00178 [849.02–851.68 秒] 未知说话人（归属不确定）：want to watch such and such and okay and that's a good idea so
+- s00179 [851.68–852.84 秒] SPEAKER_01：extra functionalities
+- s00180 [852.84–866.3 秒] SPEAKER_02：yeah like personally for me at home I've I've combined the the audio video of my television set and my DVD player and my CD player so they all work actually function together but I have different remote controls for each of them
+- s00181 [866.3–867.04 秒] 未知说话人（归属不确定）：so
+- s00182 [867.04–869.98 秒] SPEAKER_02：it's sort of ironic that that then they're in their
+- s00183 [873.3–874.26 秒] 未知说话人（归属不确定）：you know
+- s00184 [874.26–876.82 秒] SPEAKER_02：the sound everything it's just one system but each
+- s00185 [876.82–877.38 秒] 未知说话人（归属不确定）：one's got its
+- s00186 [877.38–877.7 秒] SPEAKER_02：own little
+- s00187 [885.33–902.61 秒] SPEAKER_01：Okay, I'm gonna have to wrap up pretty quickly in the next couple of minutes and I'll just check with nothing else Okay, and so anything else anybody wants to add about what they don't like about remote controls They've used what they would really like to be part of this new one at all
+- s00188 [904.19–904.71 秒] SPEAKER_03：You
+- s00189 [904.71–905.15 秒] 未知说话人（归属不确定）：keep losing
+- s00190 [905.15–905.89 秒] SPEAKER_01：them, okay
+- s00191 [914.52–917.06 秒] 未知说话人（归属不确定）：You get those ones where you can if you like
+- s00192 [917.06–919.26 秒] SPEAKER_01：whistle or make a really high pitch noise they beep
+- s00193 [919.26–919.6 秒] 未知说话人（归属不确定）：yeah
+- s00194 [919.6–922.46 秒] SPEAKER_01：there I mean is that something we'd want to include do you think
+- s00195 [922.46–923.34 秒] 未知说话人（归属不确定）：I
+- s00196 [927.76–936.76 秒] SPEAKER_02：remember when the first remote control my my family had was on a cable actually the cable between in the TV and big like buttons that sort of like like on a blender something
+- s00197 [936.76–937.56 秒] 未知说话人（归属不确定）：like and
+- s00198 [937.56–945.98 秒] SPEAKER_02：you know and I think about what they are now is better, but actually it's still kind of, I don't know, a massive junky thing on the table.
+- s00199 [946.36–947.84 秒] 未知说话人（归属不确定）：Maybe we could think about how
+- s00200 [947.84–950.82 秒] SPEAKER_02：it could be more, you know, streamlined.
+- s00201 [951.28–952.58 秒] SPEAKER_01：Maybe like a touch screen or something.
+- s00202 [953.0–953.78 秒] SPEAKER_02：Something like that,
+- s00203 [953.9–954.56 秒] 未知说话人（归属不确定）：or whatever
+- s00204 [954.56–956.18 秒] SPEAKER_02：would be technologically reasonable.
+- s00205 [956.68–959.68 秒] 未知说话人（归属不确定）：Okay, it could be that
+- s00206 [959.68–962.06 秒] SPEAKER_02：functionally that doesn't make it any better, but that just the
+- s00207 [962.06–963.06 秒] 未知说话人（归属不确定）：appeal of
+- s00208 [963.06–968.96 秒] SPEAKER_02：not having, you know, these days, things in people's homes are becoming more and more like chic you
+- s00209 [968.96–970.52 秒] 未知说话人（归属不确定）：know nicer
+- s00210 [970.52–971.14 秒] SPEAKER_02：materials
+- s00211 [971.14–973.42 秒] 未知说话人（归属不确定）：okay might be
+- s00212 [975.05–975.83 秒] 未知说话人（归属不确定）：worth
+- s00213 [975.83–977.37 秒] SPEAKER_02：exploring right
+- s00214 [977.37–996.13 秒] SPEAKER_01：well so it is to wrap up the next meeting is going to be in 30 minutes so that's about 10 to 12 by my watch and so in between now and then as the industrial designer you're going to be working on you know the actual working design of it so you know what you're doing there.
+- s00215 [997.49–1017.11 秒] SPEAKER_01：For our user interface technical functions I guess that's you know like what we've been talking about what it'll actually do and marketing executive you'll be just thinking about what it actually what you know what requirements it has to has to fulfill and you know get
+- s00216 [1017.11–1019.99 秒] SPEAKER_01：instructions emailed to you I guess okay
+- s00217 [1027.8–1028.2 秒] 未知说话人（归属不确定）：Yeah,
+- s00218 [1028.26–1032.36 秒] SPEAKER_01：so it's the functional design stages next and
+- s00219 [1034.66–1037.52 秒] SPEAKER_01：that's the end of the meeting.
+- s00220 [1039.2–1039.74 秒] SPEAKER_01：I got
+- s00221 [1039.74–1040.16 秒] 未知说话人（归属不确定）：that little
+- s00222 [1040.16–1042.24 秒] SPEAKER_01：message a lot sooner than I thought I would,
+- s00223 [1042.32–1043.06 秒] 未知说话人（归属不确定）：so...
+- s00224 [1047.0–1049.4 秒] SPEAKER_02：Before we wrap up just to make sure we're all on the same page
+- s00225 [1049.4–1049.64 秒] 未知说话人（归属不确定）：here,
+- s00226 [1052.32–1056.28 秒] SPEAKER_02：we were given sort of an example of a coffee machine or
+- s00227 [1056.28–1056.76 秒] 未知说话人（归属不确定）：something, right? Yeah.
+- s00228 [1057.16–1057.32 秒] SPEAKER_02：Well,
+- s00229 [1059.46–1061.1 秒] 未知说话人（归属不确定）：are
+- s00230 [1061.1–1073.06 秒] SPEAKER_02：we right now on the assumption that our television remote control may have features which go beyond the television? Or are we keeping sort of like a design commitment to television features?
+- s00231 [1073.46–1074.56 秒] 未知说话人（归属不确定）：OK, well, just
+- s00232 [1074.56–1081.94 秒] SPEAKER_01：very quickly, because we're supposed to finish now. I guess that's up to us. I mean, you probably want some kind of unique selling point of it.
+- s00233 [1082.04–1082.26 秒] 未知说话人（归属不确定）：OK.
+- s00234 [1082.44–1082.72 秒] SPEAKER_01：So,
+- s00235 [1084.5–1084.72 秒] 未知说话人（归属不确定）：you know.
+- s00236 [1087.4–1088.12 秒] 未知说话人（归属不确定）：So the
+- s00237 [1088.12–1093.06 秒] SPEAKER_03：cat there depends on how much you can cram into that pipe,
+- s00238 [1094.38–1094.76 秒] 未知说话人（归属不确定）：and
+- s00239 [1094.76–1098.42 秒] SPEAKER_03：that's the only cat there.
+- s00240 [1099.12–1101.94 秒] SPEAKER_01：Right, okay, well that's the end of the meeting then.
+- s00241 [1105.92–1107.32 秒] SPEAKER_01：Thank you all for coming.
+- s00242 [1110.74–1112.96 秒] SPEAKER_01：God, I hope that was what they wanted us to do.
+- s00243 [1133.85–1134.17 秒] 未知说话人（归属不确定）：I
+- s00244 [1134.17–1136.55 秒] SPEAKER_01：think if you can just leave it on maybe and then
+- s00245 [1258.14–1262.38 秒] SPEAKER_03：I don't know how it is to do this, but
+- s00246 [1270.76–1272.6 秒] SPEAKER_03：I wasn't expecting you to find me.

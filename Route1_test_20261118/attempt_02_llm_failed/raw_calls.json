@@ -1,0 +1,27 @@
+[
+  {
+    "model": "deepseek-flash",
+    "response_model": "deepseek-flash",
+    "request_id": "8538585c-8646-42e2-9eae-3810f0362ab3",
+    "seconds": 25.410534999999072,
+    "response": "",
+    "usage": {
+      "completion_tokens": 4096,
+      "prompt_tokens": 4880,
+      "total_tokens": 8976,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 4096,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 4880
+    }
+  }
+]

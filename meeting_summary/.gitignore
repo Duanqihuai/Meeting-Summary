@@ -1,0 +1,11 @@
+.venv/
+.env
+.env.example
+__pycache__/
+data/raw/
+models/weights/
+models/diarization/*
+!models/diarization/sources_*.json
+!models/diarization/segmentation_LICENSE
+!models/diarization/segmentation_README.md
+outputs/

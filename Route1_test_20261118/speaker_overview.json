@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "SPEAKER_01",
+    "model_speech_seconds": 464.98,
+    "transcript_segments": 75
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "model_speech_seconds": 328.37,
+    "transcript_segments": 59
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "model_speech_seconds": 144.55,
+    "transcript_segments": 15
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "model_speech_seconds": 20.82,
+    "transcript_segments": 5
+  }
+]

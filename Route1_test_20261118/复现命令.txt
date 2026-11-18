@@ -1,0 +1,2 @@
+在 meeting_summary 目录执行（新结果路径不能已存在）：
+.\.venv\Scripts\python.exe run.py --route 1 --audio data/raw/ami/ES2002a/ES2002a.Mix-Headset.wav --asr-model models/weights/faster-whisper-small --language en --num-speakers 4 --out ../Route1_test_new/run

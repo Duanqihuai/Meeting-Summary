@@ -1,0 +1,15 @@
+{
+  "calls": 7,
+  "tokens": {
+    "prompt_tokens": 34767,
+    "completion_tokens": 3243,
+    "total_tokens": 38010
+  },
+  "failed_attempt_calls": 1,
+  "failed_attempt_total_tokens": 8976,
+  "earlier_draft_calls": 6,
+  "earlier_draft_tokens": 22770,
+  "connectivity_probe_tokens": 44,
+  "all_recorded_tokens_including_probe": 69800,
+  "note": "分别保留成功摘要、失败尝试与连通性测试；费用以账户账单为准"
+}

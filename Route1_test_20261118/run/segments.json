@@ -1,0 +1,2755 @@
+[
+  {
+    "start": 4.5,
+    "end": 5.02,
+    "speaker": null,
+    "text": "Like",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00001"
+  },
+  {
+    "start": 5.02,
+    "end": 7.14,
+    "speaker": "SPEAKER_02",
+    "text": "she's already produced a PowerPoint.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00002"
+  },
+  {
+    "start": 7.72,
+    "end": 8.2,
+    "speaker": null,
+    "text": "I think",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00003"
+  },
+  {
+    "start": 8.2,
+    "end": 8.64,
+    "speaker": "SPEAKER_01",
+    "text": "it's already",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00004"
+  },
+  {
+    "start": 33.06,
+    "end": 33.76,
+    "speaker": "SPEAKER_03",
+    "text": "Okay",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00005"
+  },
+  {
+    "start": 55.89,
+    "end": 59.3,
+    "speaker": "SPEAKER_01",
+    "text": "Well, it's the kick-off meeting for our our project",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00006"
+  },
+  {
+    "start": 61.88,
+    "end": 66.7,
+    "speaker": "SPEAKER_01",
+    "text": "And And this is just what we're going to be doing over the next 25 minutes.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00007"
+  },
+  {
+    "start": 68.4,
+    "end": 77.28,
+    "speaker": "SPEAKER_01",
+    "text": "So first of all, just to kind of make sure that we all know each other, I'm Laura and I'm a project manager. Great. Do you want to introduce yourself again?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00008"
+  },
+  {
+    "start": 77.46,
+    "end": 80.38,
+    "speaker": "SPEAKER_03",
+    "text": "Hi, I'm David and I'm supposed to be an industrial designer.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00009"
+  },
+  {
+    "start": 80.78,
+    "end": 81.04,
+    "speaker": "SPEAKER_01",
+    "text": "Okay.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00010"
+  },
+  {
+    "start": 81.76,
+    "end": 82.24,
+    "speaker": null,
+    "text": "And",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00011"
+  },
+  {
+    "start": 82.24,
+    "end": 84.5,
+    "speaker": "SPEAKER_02",
+    "text": "I'm Andrew and I'm a marketing expert.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00012"
+  },
+  {
+    "start": 86.88,
+    "end": 87.36,
+    "speaker": "SPEAKER_02",
+    "text": "I'm",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00013"
+  },
+  {
+    "start": 87.36,
+    "end": 88.4,
+    "speaker": null,
+    "text": "Greg and I'm huge interface.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_04"
+    ],
+    "id": "s00014"
+  },
+  {
+    "start": 89.18,
+    "end": 90.28,
+    "speaker": "SPEAKER_01",
+    "text": "Great. Okay.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00015"
+  },
+  {
+    "start": 92.48,
+    "end": 102.0,
+    "speaker": "SPEAKER_01",
+    "text": "So we're designing a new remote control and oh, I have to record who's here, actually. So that's David, Andrew and Craig, isn't it?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00016"
+  },
+  {
+    "start": 102.08,
+    "end": 102.22,
+    "speaker": null,
+    "text": "We",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00017"
+  },
+  {
+    "start": 105.29,
+    "end": 106.11,
+    "speaker": "SPEAKER_01",
+    "text": "arrived on time.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00018"
+  },
+  {
+    "start": 109.61,
+    "end": 115.65,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, so to design a new remote control, as you can see it's supposed to be original, trendy and user-friendly.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00019"
+  },
+  {
+    "start": 117.85,
+    "end": 128.79,
+    "speaker": "SPEAKER_01",
+    "text": "So that's kind of our brief that we're at. And so there are three different stages to the design. I'm not really sure what you guys have already received.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00020"
+  },
+  {
+    "start": 130.17,
+    "end": 131.97,
+    "speaker": "SPEAKER_01",
+    "text": "In your emails, what did you get?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00021"
+  },
+  {
+    "start": 132.77,
+    "end": 134.61,
+    "speaker": "SPEAKER_03",
+    "text": "I just got the project announcement.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00022"
+  },
+  {
+    "start": 139.37,
+    "end": 141.75,
+    "speaker": null,
+    "text": "Yeah, that's it. That's what everybody got, okay.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00023"
+  },
+  {
+    "start": 143.63,
+    "end": 151.01,
+    "speaker": "SPEAKER_01",
+    "text": "So we're going to have like individual work and then a meeting about it and repeat that process three times.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00024"
+  },
+  {
+    "start": 154.07,
+    "end": 154.47,
+    "speaker": null,
+    "text": "And",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00025"
+  },
+  {
+    "start": 154.47,
+    "end": 157.35,
+    "speaker": "SPEAKER_01",
+    "text": "at this point you get to try out the whiteboard over there.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00026"
+  },
+  {
+    "start": 160.67,
+    "end": 166.69,
+    "speaker": "SPEAKER_01",
+    "text": "So you get to draw your favourite animal and sum up your favourite characteristics of it. So who would like to go",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00027"
+  },
+  {
+    "start": 166.69,
+    "end": 167.79,
+    "speaker": null,
+    "text": "first? I will go. That's fine.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00028"
+  },
+  {
+    "start": 167.79,
+    "end": 168.23,
+    "speaker": "SPEAKER_01",
+    "text": "Very good.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00029"
+  },
+  {
+    "start": 176.47,
+    "end": 176.87,
+    "speaker": null,
+    "text": "So",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00030"
+  },
+  {
+    "start": 181.13,
+    "end": 181.53,
+    "speaker": null,
+    "text": "this",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00031"
+  },
+  {
+    "start": 181.53,
+    "end": 182.09,
+    "speaker": "SPEAKER_02",
+    "text": "one here, right?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00032"
+  },
+  {
+    "start": 183.17,
+    "end": 183.65,
+    "speaker": "SPEAKER_03",
+    "text": "Mm-hmm.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00033"
+  },
+  {
+    "start": 183.81,
+    "end": 191.43,
+    "speaker": "SPEAKER_02",
+    "text": "Okay. Very nice. All right. My favorite animal is like",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00034"
+  },
+  {
+    "start": 191.43,
+    "end": 192.23,
+    "speaker": null,
+    "text": "a",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00035"
+  },
+  {
+    "start": 203.56,
+    "end": 203.9,
+    "speaker": "SPEAKER_02",
+    "text": "beagle.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00036"
+  },
+  {
+    "start": 212.78,
+    "end": 215.28,
+    "speaker": "SPEAKER_02",
+    "text": "Favorite characteristics of it? Is that right?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00037"
+  },
+  {
+    "start": 216.04,
+    "end": 216.16,
+    "speaker": null,
+    "text": "Yeah.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00038"
+  },
+  {
+    "start": 216.52,
+    "end": 233.3,
+    "speaker": "SPEAKER_02",
+    "text": "Right, well basically high priority for any animal for me is that they be willing to take a lot of physical affection from their family. And yeah, they have lots of personality and",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00039"
+  },
+  {
+    "start": 233.3,
+    "end": 234.48,
+    "speaker": null,
+    "text": "be",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00040"
+  },
+  {
+    "start": 235.89,
+    "end": 242.25,
+    "speaker": "SPEAKER_02",
+    "text": "fit and in robust good health, so this is Blue Beagle, my family's Beagle.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00041"
+  },
+  {
+    "start": 243.03,
+    "end": 243.59,
+    "speaker": null,
+    "text": "Right.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00042"
+  },
+  {
+    "start": 244.69,
+    "end": 244.89,
+    "speaker": "SPEAKER_03",
+    "text": "Lovely.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00043"
+  },
+  {
+    "start": 245.73,
+    "end": 246.07,
+    "speaker": null,
+    "text": "No",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00044"
+  },
+  {
+    "start": 255.19,
+    "end": 256.39,
+    "speaker": "SPEAKER_04",
+    "text": "matter if an animal would be a monkey,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_04"
+    ],
+    "id": "s00045"
+  },
+  {
+    "start": 266.54,
+    "end": 268.18,
+    "speaker": null,
+    "text": "and",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00046"
+  },
+  {
+    "start": 268.18,
+    "end": 273.92,
+    "speaker": "SPEAKER_04",
+    "text": "then a small cutie furry, and when plant needs to become real, I'm going to be up there with them.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_04"
+    ],
+    "id": "s00047"
+  },
+  {
+    "start": 280.93,
+    "end": 282.09,
+    "speaker": "SPEAKER_03",
+    "text": "Thank you. You",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00048"
+  },
+  {
+    "start": 286.06,
+    "end": 290.04,
+    "speaker": "SPEAKER_01",
+    "text": "can take as long over this as you like because we haven't got an awful lot to do",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00049"
+  },
+  {
+    "start": 290.04,
+    "end": 290.44,
+    "speaker": null,
+    "text": "this. Ok,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00050"
+  },
+  {
+    "start": 290.52,
+    "end": 293.16,
+    "speaker": "SPEAKER_01",
+    "text": "we do, we do. Don't feel like you're in a rush anyway.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00051"
+  },
+  {
+    "start": 295.74,
+    "end": 296.1,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00052"
+  },
+  {
+    "start": 296.1,
+    "end": 297.78,
+    "speaker": "SPEAKER_02",
+    "text": "actually told you a whole lot more about beagles.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00053"
+  },
+  {
+    "start": 297.96,
+    "end": 299.3,
+    "speaker": null,
+    "text": "Ok, well I'd",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00054"
+  },
+  {
+    "start": 299.3,
+    "end": 299.9,
+    "speaker": "SPEAKER_01",
+    "text": "have to get you up",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00055"
+  },
+  {
+    "start": 299.9,
+    "end": 300.12,
+    "speaker": null,
+    "text": "again.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00056"
+  },
+  {
+    "start": 300.98,
+    "end": 303.42,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know what mine is, I'm going to have to think in the spot mode.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00057"
+  },
+  {
+    "start": 307.56,
+    "end": 307.92,
+    "speaker": "SPEAKER_02",
+    "text": "Impressionist.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00058"
+  },
+  {
+    "start": 311.54,
+    "end": 311.9,
+    "speaker": null,
+    "text": "Is",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00059"
+  },
+  {
+    "start": 311.9,
+    "end": 313.34,
+    "speaker": "SPEAKER_03",
+    "text": "that a whale? Yeah.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00060"
+  },
+  {
+    "start": 319.86,
+    "end": 323.9,
+    "speaker": "SPEAKER_03",
+    "text": "Oh my, I don't know, it's just the first animal I can think of to top of my head.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00061"
+  },
+  {
+    "start": 342.18,
+    "end": 342.54,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00062"
+  },
+  {
+    "start": 342.54,
+    "end": 345.12,
+    "speaker": "SPEAKER_01",
+    "text": "still don't know what I'm going to write about.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00063"
+  },
+  {
+    "start": 349.69,
+    "end": 350.91,
+    "speaker": "SPEAKER_02",
+    "text": "Superb sketch, by the way.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00064"
+  },
+  {
+    "start": 354.72,
+    "end": 355.12,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00065"
+  },
+  {
+    "start": 355.12,
+    "end": 362.82,
+    "speaker": "SPEAKER_01",
+    "text": "was going to choose a dog as well, but I just draw a different kind of dog. My favourite animal is my own dog at home.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00066"
+  },
+  {
+    "start": 366.71,
+    "end": 367.11,
+    "speaker": null,
+    "text": "That",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00067"
+  },
+  {
+    "start": 367.11,
+    "end": 368.49,
+    "speaker": "SPEAKER_01",
+    "text": "doesn't really look like him, actually.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00068"
+  },
+  {
+    "start": 373.29,
+    "end": 374.63,
+    "speaker": "SPEAKER_01",
+    "text": "He looks more like a pig, actually.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00069"
+  },
+  {
+    "start": 377.95,
+    "end": 378.35,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00070"
+  },
+  {
+    "start": 378.35,
+    "end": 379.35,
+    "speaker": "SPEAKER_02",
+    "text": "see a dog in there.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00071"
+  },
+  {
+    "start": 379.55,
+    "end": 380.43,
+    "speaker": null,
+    "text": "Oh, that's",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00072"
+  },
+  {
+    "start": 380.43,
+    "end": 380.93,
+    "speaker": "SPEAKER_01",
+    "text": "very good of you.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00073"
+  },
+  {
+    "start": 382.55,
+    "end": 382.95,
+    "speaker": null,
+    "text": "Now",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00074"
+  },
+  {
+    "start": 382.95,
+    "end": 383.49,
+    "speaker": "SPEAKER_02",
+    "text": "I see a rooster.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00075"
+  },
+  {
+    "start": 393.14,
+    "end": 393.54,
+    "speaker": null,
+    "text": "What",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00076"
+  },
+  {
+    "start": 393.54,
+    "end": 393.98,
+    "speaker": "SPEAKER_02",
+    "text": "kind is it?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00077"
+  },
+  {
+    "start": 394.96,
+    "end": 401.28,
+    "speaker": "SPEAKER_01",
+    "text": "He's a mixture of various things, and what do I like about him?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00078"
+  },
+  {
+    "start": 402.92,
+    "end": 411.06,
+    "speaker": "SPEAKER_01",
+    "text": "That's supposed to suggest that his tail wags. He's very friendly and cheery and always pleased to see you and very affectionate.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00079"
+  },
+  {
+    "start": 415.68,
+    "end": 420.7,
+    "speaker": "SPEAKER_01",
+    "text": "And he's quite we as well, so he doesn't take up too much space.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00080"
+  },
+  {
+    "start": 426.96,
+    "end": 431.06,
+    "speaker": "SPEAKER_01",
+    "text": "And he does the funny thing where he chases his tail as well, this is quite amusing.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00081"
+  },
+  {
+    "start": 431.26,
+    "end": 433.28,
+    "speaker": "SPEAKER_02",
+    "text": "Is he aware that this is his own tail that he's chasing?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00082"
+  },
+  {
+    "start": 433.8,
+    "end": 441.52,
+    "speaker": "SPEAKER_01",
+    "text": "It is, I think it is. He only does it after he's had his dinner. And all of a sudden he gets up and starts chasing his tail. He's throwing the living room.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00083"
+  },
+  {
+    "start": 443.68,
+    "end": 444.5,
+    "speaker": null,
+    "text": "Probably when he",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02",
+      "SPEAKER_03"
+    ],
+    "id": "s00084"
+  },
+  {
+    "start": 444.5,
+    "end": 446.66,
+    "speaker": "SPEAKER_02",
+    "text": "was little he got lots of attention for doing it.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00085"
+  },
+  {
+    "start": 447.22,
+    "end": 448.46,
+    "speaker": null,
+    "text": "Maybe. Has he ever been conditioned?",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00086"
+  },
+  {
+    "start": 449.0,
+    "end": 449.26,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00087"
+  },
+  {
+    "start": 451.36,
+    "end": 453.84,
+    "speaker": "SPEAKER_01",
+    "text": "Where did you find this just down here? okay",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00088"
+  },
+  {
+    "start": 464.69,
+    "end": 465.77,
+    "speaker": null,
+    "text": "okay",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00089"
+  },
+  {
+    "start": 465.77,
+    "end": 470.55,
+    "speaker": "SPEAKER_01",
+    "text": "when I need to discuss the project finance so",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00090"
+  },
+  {
+    "start": 472.15,
+    "end": 491.73,
+    "speaker": "SPEAKER_01",
+    "text": "according to the brief we're going to be selling this remote control for 25 euro and we're aiming to make 50 million euro and so we're going to be selling this on an international scale and we don't want it to cost any more than 1250 euros",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00091"
+  },
+  {
+    "start": 491.73,
+    "end": 494.75,
+    "speaker": "SPEAKER_01",
+    "text": "so 50 percent of the selling price.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00092"
+  },
+  {
+    "start": 495.71,
+    "end": 497.53,
+    "speaker": "SPEAKER_02",
+    "text": "Can we just go over that again?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00093"
+  },
+  {
+    "start": 498.11,
+    "end": 498.29,
+    "speaker": null,
+    "text": "Sure.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00094"
+  },
+  {
+    "start": 499.39,
+    "end": 503.69,
+    "speaker": "SPEAKER_02",
+    "text": "So cost",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00095"
+  },
+  {
+    "start": 505.67,
+    "end": 507.71,
+    "speaker": "SPEAKER_02",
+    "text": "like production cost is",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00096"
+  },
+  {
+    "start": 507.71,
+    "end": 509.35,
+    "speaker": null,
+    "text": "all together but",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00097"
+  },
+  {
+    "start": 509.35,
+    "end": 513.79,
+    "speaker": "SPEAKER_02",
+    "text": "selling price is is that wholesale or retail like on the shelf?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00098"
+  },
+  {
+    "start": 515.77,
+    "end": 516.45,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00099"
+  },
+  {
+    "start": 516.45,
+    "end": 518.31,
+    "speaker": "SPEAKER_01",
+    "text": "don't know I imagine that's a good",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00100"
+  },
+  {
+    "start": 518.31,
+    "end": 521.39,
+    "speaker": null,
+    "text": "question. Our sale I imagine it probably is our sale actually",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00101"
+  },
+  {
+    "start": 521.39,
+    "end": 522.65,
+    "speaker": "SPEAKER_01",
+    "text": "because it's probably up to",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00102"
+  },
+  {
+    "start": 522.65,
+    "end": 524.39,
+    "speaker": null,
+    "text": "the",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00103"
+  },
+  {
+    "start": 524.39,
+    "end": 528.43,
+    "speaker": "SPEAKER_01",
+    "text": "retailer to sell it for whatever price they want.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00104"
+  },
+  {
+    "start": 531.47,
+    "end": 538.11,
+    "speaker": "SPEAKER_01",
+    "text": "But I don't know, I mean do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00105"
+  },
+  {
+    "start": 538.77,
+    "end": 538.97,
+    "speaker": null,
+    "text": "Yes.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00106"
+  },
+  {
+    "start": 539.33,
+    "end": 539.79,
+    "speaker": "SPEAKER_01",
+    "text": "I think it will.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00107"
+  },
+  {
+    "start": 541.71,
+    "end": 542.15,
+    "speaker": null,
+    "text": "Well",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00108"
+  },
+  {
+    "start": 548.39,
+    "end": 553.43,
+    "speaker": "SPEAKER_02",
+    "text": "right away I'm wondering if there's like the DVD players if there are zones.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00109"
+  },
+  {
+    "start": 553.81,
+    "end": 555.79,
+    "speaker": null,
+    "text": "Oh yeah, regions and stuff. frequencies",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_03"
+    ],
+    "id": "s00110"
+  },
+  {
+    "start": 555.79,
+    "end": 556.35,
+    "speaker": "SPEAKER_02",
+    "text": "or something,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00111"
+  },
+  {
+    "start": 556.97,
+    "end": 558.83,
+    "speaker": null,
+    "text": "as well",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_03"
+    ],
+    "id": "s00112"
+  },
+  {
+    "start": 558.83,
+    "end": 565.11,
+    "speaker": "SPEAKER_02",
+    "text": "as characters, different keypad styles and symbols.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00113"
+  },
+  {
+    "start": 565.59,
+    "end": 570.93,
+    "speaker": "SPEAKER_01",
+    "text": "If we're on root control do you think that would be, I suppose it depends on how complicated our root control is.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00114"
+  },
+  {
+    "start": 571.63,
+    "end": 572.35,
+    "speaker": "SPEAKER_03",
+    "text": "It does make sense.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00115"
+  },
+  {
+    "start": 575.96,
+    "end": 579.96,
+    "speaker": "SPEAKER_03",
+    "text": "You have more complicated characters that you can manage if you need more money.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00116"
+  },
+  {
+    "start": 582.74,
+    "end": 583.28,
+    "speaker": "SPEAKER_01",
+    "text": "And",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00117"
+  },
+  {
+    "start": 583.28,
+    "end": 583.76,
+    "speaker": null,
+    "text": "then",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00118"
+  },
+  {
+    "start": 583.76,
+    "end": 588.28,
+    "speaker": "SPEAKER_02",
+    "text": "the other thing, international, on top of the price, I'm thinking",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00119"
+  },
+  {
+    "start": 588.28,
+    "end": 589.7,
+    "speaker": null,
+    "text": "the",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00120"
+  },
+  {
+    "start": 591.11,
+    "end": 596.45,
+    "speaker": "SPEAKER_02",
+    "text": "price might appeal to a certain market in one region, whereas in another it will be different.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00121"
+  },
+  {
+    "start": 597.57,
+    "end": 600.09,
+    "speaker": null,
+    "text": "Just to characterise the country,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00122"
+  },
+  {
+    "start": 600.49,
+    "end": 602.77,
+    "speaker": "SPEAKER_01",
+    "text": "like how much money people have to spend on",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00123"
+  },
+  {
+    "start": 602.77,
+    "end": 603.21,
+    "speaker": null,
+    "text": "things. Or just",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00124"
+  },
+  {
+    "start": 603.21,
+    "end": 615.57,
+    "speaker": "SPEAKER_02",
+    "text": "like basic product positioning, the 25 euro remote control might be a big hit in London might not be such a big hit in Greece, who knows?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00125"
+  },
+  {
+    "start": 615.67,
+    "end": 617.17,
+    "speaker": null,
+    "text": "I'd say so, yeah.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00126"
+  },
+  {
+    "start": 618.71,
+    "end": 622.57,
+    "speaker": "SPEAKER_01",
+    "text": "Marketing, good marketing thoughts. Oh gosh, I should be writing all this time.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00127"
+  },
+  {
+    "start": 655.0,
+    "end": 655.6,
+    "speaker": null,
+    "text": "Right",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00128"
+  },
+  {
+    "start": 655.6,
+    "end": 660.28,
+    "speaker": "SPEAKER_02",
+    "text": "away I'm making some kind of assumptions about what information we're given here,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00129"
+  },
+  {
+    "start": 660.76,
+    "end": 660.98,
+    "speaker": null,
+    "text": "thinking,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00130"
+  },
+  {
+    "start": 662.12,
+    "end": 665.08,
+    "speaker": "SPEAKER_02",
+    "text": "okay, trendy probably means something other than just basic,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00131"
+  },
+  {
+    "start": 665.46,
+    "end": 665.84,
+    "speaker": null,
+    "text": "something",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00132"
+  },
+  {
+    "start": 665.84,
+    "end": 667.82,
+    "speaker": "SPEAKER_02",
+    "text": "other than just standard.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00133"
+  },
+  {
+    "start": 670.06,
+    "end": 676.24,
+    "speaker": "SPEAKER_02",
+    "text": "So I'm wondering right away is selling 25 euros, is that sort of the, is this going to be like the premium product?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00134"
+  },
+  {
+    "start": 677.0,
+    "end": 680.32,
+    "speaker": "SPEAKER_01",
+    "text": "Yeah, yeah, like how much does, you know, a remote control cost?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00135"
+  },
+  {
+    "start": 681.4,
+    "end": 681.8,
+    "speaker": null,
+    "text": "Well,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00136"
+  },
+  {
+    "start": 681.82,
+    "end": 689.08,
+    "speaker": "SPEAKER_01",
+    "text": "25 euro, I mean that's, that's about like 18 pounds or something, isn't it? Or no, is it as much as that?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00137"
+  },
+  {
+    "start": 689.68,
+    "end": 690.02,
+    "speaker": null,
+    "text": "16,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00138"
+  },
+  {
+    "start": 690.14,
+    "end": 691.04,
+    "speaker": "SPEAKER_01",
+    "text": "17, 18 pounds?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00139"
+  },
+  {
+    "start": 692.34,
+    "end": 696.14,
+    "speaker": "SPEAKER_01",
+    "text": "I don't know, I've never bought a remote control, so I don't know",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00140"
+  },
+  {
+    "start": 696.14,
+    "end": 696.88,
+    "speaker": null,
+    "text": "how",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00141"
+  },
+  {
+    "start": 696.88,
+    "end": 698.98,
+    "speaker": "SPEAKER_01",
+    "text": "good a remote control that would get you.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00142"
+  },
+  {
+    "start": 701.6,
+    "end": 704.82,
+    "speaker": "SPEAKER_01",
+    "text": "But yeah, I suppose it has to look kind of cool, gimmicky.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00143"
+  },
+  {
+    "start": 713.46,
+    "end": 721.4,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, well does anybody have anything to add to the finance issue at all?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00144"
+  },
+  {
+    "start": 722.38,
+    "end": 722.9,
+    "speaker": null,
+    "text": "do",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00145"
+  },
+  {
+    "start": 722.9,
+    "end": 726.9,
+    "speaker": "SPEAKER_02",
+    "text": "we have any other background information on like how that compares to other",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00146"
+  },
+  {
+    "start": 726.9,
+    "end": 728.88,
+    "speaker": null,
+    "text": "no actually that would be",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00147"
+  },
+  {
+    "start": 728.88,
+    "end": 730.48,
+    "speaker": "SPEAKER_01",
+    "text": "useful wouldn't it if you knew like",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00148"
+  },
+  {
+    "start": 730.48,
+    "end": 731.18,
+    "speaker": null,
+    "text": "what",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00149"
+  },
+  {
+    "start": 731.18,
+    "end": 733.96,
+    "speaker": "SPEAKER_01",
+    "text": "your money would get you yeah",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00150"
+  },
+  {
+    "start": 753.96,
+    "end": 767.06,
+    "speaker": "SPEAKER_02",
+    "text": "interesting thing about discussing production of remote control for me is that as you point out I just don't think remote control is being something something people consciously assess in their purchasing habits.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00151"
+  },
+  {
+    "start": 767.72,
+    "end": 768.24,
+    "speaker": null,
+    "text": "It's just",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00152"
+  },
+  {
+    "start": 768.24,
+    "end": 771.84,
+    "speaker": "SPEAKER_02",
+    "text": "like getting shoelaces with shoes or",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00153"
+  },
+  {
+    "start": 771.84,
+    "end": 773.44,
+    "speaker": null,
+    "text": "something. Five minutes to",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00154"
+  },
+  {
+    "start": 773.44,
+    "end": 775.98,
+    "speaker": "SPEAKER_01",
+    "text": "end of meeting? Oh, okay. We're a bit behind.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00155"
+  },
+  {
+    "start": 776.2,
+    "end": 776.44,
+    "speaker": "SPEAKER_02",
+    "text": "You know what I mean?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00156"
+  },
+  {
+    "start": 778.24,
+    "end": 792.7,
+    "speaker": "SPEAKER_02",
+    "text": "One way of looking at it would be, well, the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have TV sets are really fed up with their remote control and they really want a",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_04"
+    ],
+    "id": "s00157"
+  },
+  {
+    "start": 792.7,
+    "end": 793.28,
+    "speaker": null,
+    "text": "better one or",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_04"
+    ],
+    "id": "s00158"
+  },
+  {
+    "start": 793.28,
+    "end": 793.48,
+    "speaker": "SPEAKER_02",
+    "text": "something.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00159"
+  },
+  {
+    "start": 794.2,
+    "end": 799.76,
+    "speaker": "SPEAKER_04",
+    "text": "My parents went and bought remote controls because they got fed up by having four or five different remote controls for the",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_04"
+    ],
+    "id": "s00160"
+  },
+  {
+    "start": 799.76,
+    "end": 800.32,
+    "speaker": null,
+    "text": "first time.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_04"
+    ],
+    "id": "s00161"
+  },
+  {
+    "start": 800.78,
+    "end": 801.56,
+    "speaker": "SPEAKER_04",
+    "text": "Right, right. So",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_04"
+    ],
+    "id": "s00162"
+  },
+  {
+    "start": 801.56,
+    "end": 802.28,
+    "speaker": null,
+    "text": "the game was",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02",
+      "SPEAKER_04"
+    ],
+    "id": "s00163"
+  },
+  {
+    "start": 802.28,
+    "end": 804.26,
+    "speaker": "SPEAKER_04",
+    "text": "just how many devices is a good call.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_04"
+    ],
+    "id": "s00164"
+  },
+  {
+    "start": 804.52,
+    "end": 806.42,
+    "speaker": "SPEAKER_02",
+    "text": "Right, so in function one of the priorities might be",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00165"
+  },
+  {
+    "start": 806.42,
+    "end": 807.22,
+    "speaker": null,
+    "text": "to",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00166"
+  },
+  {
+    "start": 807.22,
+    "end": 810.22,
+    "speaker": "SPEAKER_02",
+    "text": "combine as many uses.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00167"
+  },
+  {
+    "start": 811.36,
+    "end": 814.86,
+    "speaker": "SPEAKER_01",
+    "text": "Right, so do you think that should be like a main design aim of remote controls? I",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00168"
+  },
+  {
+    "start": 814.86,
+    "end": 816.44,
+    "speaker": null,
+    "text": "think so. Your satellite",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00169"
+  },
+  {
+    "start": 816.44,
+    "end": 819.48,
+    "speaker": "SPEAKER_01",
+    "text": "and your regular tally and your VCR and everything.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00170"
+  },
+  {
+    "start": 819.48,
+    "end": 820.0,
+    "speaker": null,
+    "text": "Well",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00171"
+  },
+  {
+    "start": 820.0,
+    "end": 832.56,
+    "speaker": "SPEAKER_02",
+    "text": "like maybe what we could use as a sort of like an example of a successful other piece of technology is palm, palm pilots, they're going from being just like little sort of scribble boards to cameras, MP3",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00172"
+  },
+  {
+    "start": 832.56,
+    "end": 832.92,
+    "speaker": null,
+    "text": "players,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00173"
+  },
+  {
+    "start": 833.26,
+    "end": 840.2,
+    "speaker": "SPEAKER_02",
+    "text": "telephones, everything, agenda, so like I wonder if we might add something new to the to the remote control",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00174"
+  },
+  {
+    "start": 840.2,
+    "end": 840.86,
+    "speaker": null,
+    "text": "market such",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00175"
+  },
+  {
+    "start": 840.86,
+    "end": 843.96,
+    "speaker": "SPEAKER_02",
+    "text": "as the lighting in your house or...",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00176"
+  },
+  {
+    "start": 843.96,
+    "end": 849.02,
+    "speaker": "SPEAKER_01",
+    "text": "Or even like you know notes about what you want to watch, like you might put in there or I",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00177"
+  },
+  {
+    "start": 849.02,
+    "end": 851.68,
+    "speaker": null,
+    "text": "want to watch such and such and okay and that's a good idea so",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00178"
+  },
+  {
+    "start": 851.68,
+    "end": 852.84,
+    "speaker": "SPEAKER_01",
+    "text": "extra functionalities",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00179"
+  },
+  {
+    "start": 852.84,
+    "end": 866.3,
+    "speaker": "SPEAKER_02",
+    "text": "yeah like personally for me at home I've I've combined the the audio video of my television set and my DVD player and my CD player so they all work actually function together but I have different remote controls for each of them",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00180"
+  },
+  {
+    "start": 866.3,
+    "end": 867.04,
+    "speaker": null,
+    "text": "so",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00181"
+  },
+  {
+    "start": 867.04,
+    "end": 869.98,
+    "speaker": "SPEAKER_02",
+    "text": "it's sort of ironic that that then they're in their",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00182"
+  },
+  {
+    "start": 873.3,
+    "end": 874.26,
+    "speaker": null,
+    "text": "you know",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00183"
+  },
+  {
+    "start": 874.26,
+    "end": 876.82,
+    "speaker": "SPEAKER_02",
+    "text": "the sound everything it's just one system but each",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00184"
+  },
+  {
+    "start": 876.82,
+    "end": 877.38,
+    "speaker": null,
+    "text": "one's got its",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00185"
+  },
+  {
+    "start": 877.38,
+    "end": 877.7,
+    "speaker": "SPEAKER_02",
+    "text": "own little",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00186"
+  },
+  {
+    "start": 885.33,
+    "end": 902.61,
+    "speaker": "SPEAKER_01",
+    "text": "Okay, I'm gonna have to wrap up pretty quickly in the next couple of minutes and I'll just check with nothing else Okay, and so anything else anybody wants to add about what they don't like about remote controls They've used what they would really like to be part of this new one at all",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00187"
+  },
+  {
+    "start": 904.19,
+    "end": 904.71,
+    "speaker": "SPEAKER_03",
+    "text": "You",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00188"
+  },
+  {
+    "start": 904.71,
+    "end": 905.15,
+    "speaker": null,
+    "text": "keep losing",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00189"
+  },
+  {
+    "start": 905.15,
+    "end": 905.89,
+    "speaker": "SPEAKER_01",
+    "text": "them, okay",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00190"
+  },
+  {
+    "start": 914.52,
+    "end": 917.06,
+    "speaker": null,
+    "text": "You get those ones where you can if you like",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00191"
+  },
+  {
+    "start": 917.06,
+    "end": 919.26,
+    "speaker": "SPEAKER_01",
+    "text": "whistle or make a really high pitch noise they beep",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00192"
+  },
+  {
+    "start": 919.26,
+    "end": 919.6,
+    "speaker": null,
+    "text": "yeah",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00193"
+  },
+  {
+    "start": 919.6,
+    "end": 922.46,
+    "speaker": "SPEAKER_01",
+    "text": "there I mean is that something we'd want to include do you think",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00194"
+  },
+  {
+    "start": 922.46,
+    "end": 923.34,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00195"
+  },
+  {
+    "start": 927.76,
+    "end": 936.76,
+    "speaker": "SPEAKER_02",
+    "text": "remember when the first remote control my my family had was on a cable actually the cable between in the TV and big like buttons that sort of like like on a blender something",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00196"
+  },
+  {
+    "start": 936.76,
+    "end": 937.56,
+    "speaker": null,
+    "text": "like and",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00197"
+  },
+  {
+    "start": 937.56,
+    "end": 945.98,
+    "speaker": "SPEAKER_02",
+    "text": "you know and I think about what they are now is better, but actually it's still kind of, I don't know, a massive junky thing on the table.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00198"
+  },
+  {
+    "start": 946.36,
+    "end": 947.84,
+    "speaker": null,
+    "text": "Maybe we could think about how",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00199"
+  },
+  {
+    "start": 947.84,
+    "end": 950.82,
+    "speaker": "SPEAKER_02",
+    "text": "it could be more, you know, streamlined.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00200"
+  },
+  {
+    "start": 951.28,
+    "end": 952.58,
+    "speaker": "SPEAKER_01",
+    "text": "Maybe like a touch screen or something.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00201"
+  },
+  {
+    "start": 953.0,
+    "end": 953.78,
+    "speaker": "SPEAKER_02",
+    "text": "Something like that,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00202"
+  },
+  {
+    "start": 953.9,
+    "end": 954.56,
+    "speaker": null,
+    "text": "or whatever",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00203"
+  },
+  {
+    "start": 954.56,
+    "end": 956.18,
+    "speaker": "SPEAKER_02",
+    "text": "would be technologically reasonable.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00204"
+  },
+  {
+    "start": 956.68,
+    "end": 959.68,
+    "speaker": null,
+    "text": "Okay, it could be that",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00205"
+  },
+  {
+    "start": 959.68,
+    "end": 962.06,
+    "speaker": "SPEAKER_02",
+    "text": "functionally that doesn't make it any better, but that just the",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00206"
+  },
+  {
+    "start": 962.06,
+    "end": 963.06,
+    "speaker": null,
+    "text": "appeal of",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00207"
+  },
+  {
+    "start": 963.06,
+    "end": 968.96,
+    "speaker": "SPEAKER_02",
+    "text": "not having, you know, these days, things in people's homes are becoming more and more like chic you",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00208"
+  },
+  {
+    "start": 968.96,
+    "end": 970.52,
+    "speaker": null,
+    "text": "know nicer",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00209"
+  },
+  {
+    "start": 970.52,
+    "end": 971.14,
+    "speaker": "SPEAKER_02",
+    "text": "materials",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00210"
+  },
+  {
+    "start": 971.14,
+    "end": 973.42,
+    "speaker": null,
+    "text": "okay might be",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00211"
+  },
+  {
+    "start": 975.05,
+    "end": 975.83,
+    "speaker": null,
+    "text": "worth",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00212"
+  },
+  {
+    "start": 975.83,
+    "end": 977.37,
+    "speaker": "SPEAKER_02",
+    "text": "exploring right",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00213"
+  },
+  {
+    "start": 977.37,
+    "end": 996.13,
+    "speaker": "SPEAKER_01",
+    "text": "well so it is to wrap up the next meeting is going to be in 30 minutes so that's about 10 to 12 by my watch and so in between now and then as the industrial designer you're going to be working on you know the actual working design of it so you know what you're doing there.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00214"
+  },
+  {
+    "start": 997.49,
+    "end": 1017.11,
+    "speaker": "SPEAKER_01",
+    "text": "For our user interface technical functions I guess that's you know like what we've been talking about what it'll actually do and marketing executive you'll be just thinking about what it actually what you know what requirements it has to has to fulfill and you know get",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00215"
+  },
+  {
+    "start": 1017.11,
+    "end": 1019.99,
+    "speaker": "SPEAKER_01",
+    "text": "instructions emailed to you I guess okay",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00216"
+  },
+  {
+    "start": 1027.8,
+    "end": 1028.2,
+    "speaker": null,
+    "text": "Yeah,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00217"
+  },
+  {
+    "start": 1028.26,
+    "end": 1032.36,
+    "speaker": "SPEAKER_01",
+    "text": "so it's the functional design stages next and",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00218"
+  },
+  {
+    "start": 1034.66,
+    "end": 1037.52,
+    "speaker": "SPEAKER_01",
+    "text": "that's the end of the meeting.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00219"
+  },
+  {
+    "start": 1039.2,
+    "end": 1039.74,
+    "speaker": "SPEAKER_01",
+    "text": "I got",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00220"
+  },
+  {
+    "start": 1039.74,
+    "end": 1040.16,
+    "speaker": null,
+    "text": "that little",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02",
+      "SPEAKER_03"
+    ],
+    "id": "s00221"
+  },
+  {
+    "start": 1040.16,
+    "end": 1042.24,
+    "speaker": "SPEAKER_01",
+    "text": "message a lot sooner than I thought I would,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00222"
+  },
+  {
+    "start": 1042.32,
+    "end": 1043.06,
+    "speaker": null,
+    "text": "so...",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00223"
+  },
+  {
+    "start": 1047.0,
+    "end": 1049.4,
+    "speaker": "SPEAKER_02",
+    "text": "Before we wrap up just to make sure we're all on the same page",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00224"
+  },
+  {
+    "start": 1049.4,
+    "end": 1049.64,
+    "speaker": null,
+    "text": "here,",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00225"
+  },
+  {
+    "start": 1052.32,
+    "end": 1056.28,
+    "speaker": "SPEAKER_02",
+    "text": "we were given sort of an example of a coffee machine or",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00226"
+  },
+  {
+    "start": 1056.28,
+    "end": 1056.76,
+    "speaker": null,
+    "text": "something, right? Yeah.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00227"
+  },
+  {
+    "start": 1057.16,
+    "end": 1057.32,
+    "speaker": "SPEAKER_02",
+    "text": "Well,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00228"
+  },
+  {
+    "start": 1059.46,
+    "end": 1061.1,
+    "speaker": null,
+    "text": "are",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00229"
+  },
+  {
+    "start": 1061.1,
+    "end": 1073.06,
+    "speaker": "SPEAKER_02",
+    "text": "we right now on the assumption that our television remote control may have features which go beyond the television? Or are we keeping sort of like a design commitment to television features?",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_02"
+    ],
+    "id": "s00230"
+  },
+  {
+    "start": 1073.46,
+    "end": 1074.56,
+    "speaker": null,
+    "text": "OK, well, just",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_02"
+    ],
+    "id": "s00231"
+  },
+  {
+    "start": 1074.56,
+    "end": 1081.94,
+    "speaker": "SPEAKER_01",
+    "text": "very quickly, because we're supposed to finish now. I guess that's up to us. I mean, you probably want some kind of unique selling point of it.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00232"
+  },
+  {
+    "start": 1082.04,
+    "end": 1082.26,
+    "speaker": null,
+    "text": "OK.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00233"
+  },
+  {
+    "start": 1082.44,
+    "end": 1082.72,
+    "speaker": "SPEAKER_01",
+    "text": "So,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00234"
+  },
+  {
+    "start": 1084.5,
+    "end": 1084.72,
+    "speaker": null,
+    "text": "you know.",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00235"
+  },
+  {
+    "start": 1087.4,
+    "end": 1088.12,
+    "speaker": null,
+    "text": "So the",
+    "speaker_uncertain": true,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00236"
+  },
+  {
+    "start": 1088.12,
+    "end": 1093.06,
+    "speaker": "SPEAKER_03",
+    "text": "cat there depends on how much you can cram into that pipe,",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00237"
+  },
+  {
+    "start": 1094.38,
+    "end": 1094.76,
+    "speaker": null,
+    "text": "and",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00238"
+  },
+  {
+    "start": 1094.76,
+    "end": 1098.42,
+    "speaker": "SPEAKER_03",
+    "text": "that's the only cat there.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01",
+      "SPEAKER_03"
+    ],
+    "id": "s00239"
+  },
+  {
+    "start": 1099.12,
+    "end": 1101.94,
+    "speaker": "SPEAKER_01",
+    "text": "Right, okay, well that's the end of the meeting then.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00240"
+  },
+  {
+    "start": 1105.92,
+    "end": 1107.32,
+    "speaker": "SPEAKER_01",
+    "text": "Thank you all for coming.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00241"
+  },
+  {
+    "start": 1110.74,
+    "end": 1112.96,
+    "speaker": "SPEAKER_01",
+    "text": "God, I hope that was what they wanted us to do.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00242"
+  },
+  {
+    "start": 1133.85,
+    "end": 1134.17,
+    "speaker": null,
+    "text": "I",
+    "speaker_uncertain": true,
+    "speaker_candidates": [],
+    "id": "s00243"
+  },
+  {
+    "start": 1134.17,
+    "end": 1136.55,
+    "speaker": "SPEAKER_01",
+    "text": "think if you can just leave it on maybe and then",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_01"
+    ],
+    "id": "s00244"
+  },
+  {
+    "start": 1258.14,
+    "end": 1262.38,
+    "speaker": "SPEAKER_03",
+    "text": "I don't know how it is to do this, but",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00245"
+  },
+  {
+    "start": 1270.76,
+    "end": 1272.6,
+    "speaker": "SPEAKER_03",
+    "text": "I wasn't expecting you to find me.",
+    "speaker_uncertain": false,
+    "speaker_candidates": [
+      "SPEAKER_03"
+    ],
+    "id": "s00246"
+  }
+]
