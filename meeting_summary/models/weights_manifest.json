@@ -1,26 +1,48 @@
 {
-  "source": "https://huggingface.co/Systran/faster-whisper-tiny",
-  "purpose": "60秒真实ASR链路验证，非最终模型对比",
+  "default_asr": "sensevoice-small",
+  "source": "https://www.modelscope.cn/models/iic/SenseVoiceSmall",
+  "purpose": "默认本地会议 ASR；CTC 强制对齐词级时间戳",
+  "license": "Apache License 2.0",
   "files": [
     {
-      "file": "models\\weights\\faster-whisper-tiny\\config.json",
-      "sha256": "a73a28cdfe1c43ccc7202fa333d1f89c202477271407ae9a7f19afa52039cac8",
-      "bytes": 2249
+      "file": "models\\weights\\SenseVoiceSmall\\config.yaml",
+      "sha256": "f71e239ba36705564b5bf2d2ffd07eece07b8e3f2bbf6d2c99d8df856339ac19",
+      "bytes": 1855
     },
     {
-      "file": "models\\weights\\faster-whisper-tiny\\model.bin",
-      "sha256": "dcb76c6586fc06cbdac6dd21f14cfd129cc4cdd9dce19bf4ffa62e59cbe6e6d1",
-      "bytes": 75538270
+      "file": "models\\weights\\SenseVoiceSmall\\model.pt",
+      "sha256": "833ca2dcfdf8ec91bd4f31cfac36d6124e0c459074d5e909aec9cabe6204a3ea",
+      "bytes": 936291369
     },
     {
-      "file": "models\\weights\\faster-whisper-tiny\\tokenizer.json",
-      "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
-      "bytes": 2203239
+      "file": "models\\weights\\SenseVoiceSmall\\tokens.json",
+      "sha256": "a2594fc1474e78973149cba8cd1f603ebed8c39c7decb470631f66e70ce58e97",
+      "bytes": 352064
     },
     {
-      "file": "models\\weights\\faster-whisper-tiny\\vocabulary.txt",
-      "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913",
-      "bytes": 459861
+      "file": "models\\weights\\SenseVoiceSmall\\chn_jpn_yue_eng_ko_spectok.bpe.model",
+      "sha256": "aa87f86064c3730d799ddf7af3c04659151102cba548bce325cf06ba4da4e6a8",
+      "bytes": 377341
+    },
+    {
+      "file": "models\\weights\\SenseVoiceSmall\\am.mvn",
+      "sha256": "29b3c740a2c0cfc6b308126d31d7f265fa2be74f3bb095cd2f143ea970896ae5",
+      "bytes": 11203
     }
-  ]
+  ],
+  "vad": {
+    "source": "https://www.modelscope.cn/models/iic/speech_fsmn_vad_zh-cn-16k-common-pytorch",
+    "files": [
+      {
+        "file": "models\\weights\\fsmn-vad\\config.yaml",
+        "sha256": "486861ca26ddb79081663b6179cb204c6bfae71c52f04aafc48a9e9d8dde1e93",
+        "bytes": 1215
+      },
+      {
+        "file": "models\\weights\\fsmn-vad\\model.pt",
+        "sha256": "b3be75be477f0780277f3bae0fe489f48718f585f3a6e45d7dd1fbb1a4255fc5",
+        "bytes": 1721366
+      }
+    ]
+  }
 }

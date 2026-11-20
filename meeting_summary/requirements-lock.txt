@@ -15,6 +15,7 @@ distro==1.9.0
 faster-whisper==1.2.1
 filelock==4.2.12
 flatbuffers==25.12.19
+funasr==1.4.16
 fonttools==4.68.0
 fsspec==2026.9.0
 h11==0.16.0
@@ -34,6 +35,7 @@ jsonschema-specifications==2025.9.1
 kiwisolver==1.5.1
 MarkupSafe==3.0.4
 matplotlib==3.11.2
+modelscope==1.40.1
 narwhals==2.29.0
 numpy==2.4.6
 onnxruntime==1.32.0
@@ -63,6 +65,8 @@ soundfile==0.14.0
 starlette==1.10.0
 streamlit==1.67.0
 tokenizers==0.23.3
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
 tqdm==4.70.1
 truststore==0.10.5
 typing-inspection==0.4.5

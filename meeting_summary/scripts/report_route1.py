@@ -127,7 +127,7 @@ def main():
 
 ## 已经实际完成什么
 
-本次使用AMI ES2002a完整混音（{meta['audio_seconds']:.2f}秒，约{meta['audio_seconds']/60:.2f}分钟），重新执行本地small语音识别、说话人模型、逐词时间对齐、DeepSeek API分块摘要和归并。录音是英语，最终摘要是简体中文。不是人工演示样例，也没有把人工参考转写交给大模型。
+本次使用AMI ES2002a完整混音（{meta['audio_seconds']:.2f}秒，约{meta['audio_seconds']/60:.2f}分钟），重新执行本地SenseVoiceSmall语音识别、说话人模型、逐词时间对齐、DeepSeek API分块摘要和归并。录音是英语，最终摘要是简体中文。不是人工演示样例，也没有把人工参考转写交给大模型。
 
 最直观的入口是 [查看会议摘要.html](查看会议摘要.html)：先看中文纪要，点击任何证据按钮可跳转到原音频对应位置，并显示该段英文转写。纯文本结果见 [最终会议摘要.md](最终会议摘要.md)。
 
@@ -175,7 +175,7 @@ ASR输出{meta['asr_word_count']}个词级条目，其中{meta['uncertain_speake
 在meeting_summary目录执行：
 
 ```powershell
-.\\.venv\\Scripts\\python.exe run.py --route 1 --audio data/raw/ami/ES2002a/ES2002a.Mix-Headset.wav --asr-model models/weights/faster-whisper-small --language en --num-speakers 4 --out ../Route1_test_new/run
+.\\.venv\\Scripts\\python.exe run.py --route 1 --audio data/raw/ami/ES2002a/ES2002a.Mix-Headset.wav --asr-model sensevoice-small --language en --num-speakers 4 --out ../Route1_sensevoice_20261120/run
 ```
 
 输出目录必须是新的；生成展示文档使用 `python -m scripts.report_route1 --result ../Route1_test_new --reference-root ../ASR_tests_20261118/inputs`。使用参考评测需安装requirements-eval.txt。完整原理与中文使用说明位于项目docs/04_路线一说话人增强.md。自动化测试与界面配置检查记录见验证记录.md。

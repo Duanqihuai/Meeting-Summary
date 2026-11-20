@@ -13,7 +13,8 @@ def main():
     p.add_argument("--transcript", default="data/demo/segments.json")
     p.add_argument("--manifest")
     p.add_argument("--out", default="outputs/demo")
-    p.add_argument("--asr-model", default="small", help="模型名称或已下载的本地模型目录")
+    p.add_argument("--asr-model", default="sensevoice-small",
+                   help="SenseVoiceSmall 别名或包含 model.pt 的本地目录")
     p.add_argument("--device", choices=["cpu", "cuda"], default="cpu")
     p.add_argument("--language", default="zh", help="zh/en/auto")
     p.add_argument("--chunk-seconds", type=int, default=60)

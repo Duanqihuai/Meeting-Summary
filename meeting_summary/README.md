@@ -4,13 +4,15 @@
 
 本项目包含三条独立路线、共享摘要组件、中文注释、Web 原型、数据准备工具和实验报告框架。真实 API 实验需要你填写自己的密钥；离线演示是人工样例，不能用作实验结果。
 
+本地 ASR 默认使用 **SenseVoiceSmall**（FunASR），并通过 CTC 强制对齐输出词级时间戳。`faster-whisper` 仍保留用于音频解码和旧实验兼容，但不再作为默认识别模型。
+
 路线一已加入自动说话人模型，并完成真实DeepSeek端到端调用。最新结果在 [独立测试说明](../Route1_test_20261118/测试说明.md)，另有 [机器输出与回放](../Route1_test_20261118/查看会议摘要.html) 和明确标注修改依据的 [审阅整理版纪要](../Route1_test_20261118/会议摘要_审阅整理版.md)。
 
 ## 先选哪条路线
 
 | 路线        | 文件夹                | 输入与处理                                                   | 适用条件                               | 主要局限                                     |
 | ----------- | --------------------- | ------------------------------------------------------------ | -------------------------------------- | -------------------------------------------- |
-| 1，推荐主线 | `route1_asr_llm` | 录音 → faster-whisper＋说话人模型 → DeepSeek/Qwen → 证据摘要 | 需要区分谁说了什么 | 重叠可能漏词，匿名身份可能错分 |
+| 1，推荐主线 | `route1_asr_llm` | 录音 → SenseVoiceSmall＋说话人模型 → DeepSeek/Qwen → 证据摘要 | 需要区分谁说了什么 | 重叠可能漏词，匿名身份可能错分 |
 | 2，对照实验 | `route2_audio_llm`  | 录音分块 → Qwen-Omni 笔记 → 文本模型归并                   | 不想部署本地 ASR、希望比较直接听音能力 | 费用、音频上传、遗漏难定位；不是天然解决重叠 |
 | 3，增强路线 | `route3_multitrack` | 每位参与者独立录音 → 逐轨 ASR → 时间排序 → 证据摘要       | 能取得独立麦克风/在线会议分轨录音      | 增加采集条件，串音仍可能重复识别             |
 
@@ -44,12 +46,14 @@ python run.py --route demo --out outputs/demo_first
 只检验本地识别（不需要密钥，不生成大模型摘要）：
 
 ```powershell
-.\.venv\Scripts\python.exe -m scripts.transcribe --audio data/raw/ami/ES2002a/smoke_60s.wav --asr-model models/weights/faster-whisper-tiny --language en --out outputs/asr_local_try
+.\.venv\Scripts\python.exe -m scripts.transcribe --audio data/raw/ami/ES2002a/smoke_60s.wav --asr-model sensevoice-small --language en --out outputs/asr_local_try
 ```
 
-`tiny` 权重用于本机短音频验证，不代表建议的最终实验配置。完整英文混音在同目录 `ES2002a.Mix-Headset.wav`；中文正式实验优先比较 small 和 large-v3。
+默认 ASR 为本地 SenseVoiceSmall，并通过 FSMN-VAD 分块。`sensevoice-small`
+会优先读取 `models/weights/SenseVoiceSmall`，也可用 `--asr-model` 指定其他本地
+SenseVoice 目录；本地权重缺失时 FunASR 会尝试从 ModelScope 获取。
 
-浏览器打开终端提示的本机地址。支持离线演示、录音上传、三条路线、证据展示与 Markdown/JSON 下载。默认本地 ASR 为 small/CPU；需要更高质量时从命令行指定 large-v3，硬件足够再使用 CUDA。
+浏览器打开终端提示的本机地址。支持离线演示、录音上传、三条路线、证据展示与 Markdown/JSON 下载。默认本地 ASR 为 SenseVoiceSmall/CPU；CUDA 需要安装匹配的 PyTorch。
 
 ## 真实运行
 
@@ -64,10 +68,10 @@ python run.py --route demo --out outputs/demo_first
 路线一现已默认启用说话人模型。先运行 `python -m scripts.download_diarization_models` 下载模型（默认英语声纹模型，适合本次AMI）。中文可下载 `--embedding 3dspeaker` 并通过 `--embedding-model models/diarization/3dspeaker_speech_eres2net_base_sv_zh-cn_3dspeaker_16k.onnx` 指定。已知人数可设置 `--num-speakers 4`；`--no-diarization` 关闭新功能。详见 [增强说明](docs/04_路线一说话人增强.md)。
 
 ```powershell
-.\.venv\Scripts\python.exe run.py --route 1 --audio data/raw/meeting.wav --language zh --asr-model small --out outputs/r1_001
+.\.venv\Scripts\python.exe run.py --route 1 --audio data/raw/meeting.wav --language zh --asr-model sensevoice-small --out outputs/r1_001
 ```
 
-首次运行 ASR 会联网下载权重。网络不便时将已有的 CTranslate2 格式权重目录传给 `--asr-model`。`--device cuda` 需要匹配的 NVIDIA 驱动和 CTranslate2 所要求的 CUDA/cuDNN；CPU 默认 int8，无须 CUDA。
+SenseVoice 通过 `output_timestamp=True` 返回 CTC 强制对齐的词级时间戳，路线一据此完成说话人归属。首次运行且本地权重缺失时会联网下载；网络不便时把包含 `model.pt` 的目录传给 `--asr-model`。`--device cuda` 需要匹配的 PyTorch CUDA 运行时，CPU 模式无须 GPU。
 
 ### 路线二
 

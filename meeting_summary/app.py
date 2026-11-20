@@ -10,7 +10,7 @@ import streamlit as st
 ROOT = Path(__file__).parent.resolve()
 st.set_page_config(page_title="会议语音摘要", page_icon="🎙️", layout="wide")
 st.title("🎙️ 会议语音摘要")
-st.caption("生成会议概述、决策、行动项与可回溯证据。")
+st.caption("SenseVoiceSmall 本地识别 · 生成会议概述、决策、行动项与可回溯证据。")
 mode = st.selectbox("处理方式", ["离线示例", "语音识别＋文本大模型", "语音大模型", "独立参与者分轨"])
 audio = None
 tracks = []
@@ -53,7 +53,7 @@ if st.button("生成摘要", type="primary"):
         path = folder / "tracks.json"
         path.write_text(json.dumps({"recording_type": "independent_speaker_tracks", "tracks": rows}, ensure_ascii=False), encoding="utf-8")
         cmd += ["--manifest", str(path)]
-    with st.spinner("正在处理；首次本地识别需要下载模型……"):
+    with st.spinner("正在处理；本地 ASR 为 SenseVoiceSmall，首次运行可能需要下载权重……"):
         done = subprocess.run(cmd, cwd=ROOT, capture_output=True, encoding="utf-8", errors="replace",
                               env={**os.environ, "PYTHONIOENCODING": "utf-8"})
     if done.returncode:
